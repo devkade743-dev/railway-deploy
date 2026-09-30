@@ -1,0 +1,6 @@
+__pycache__/
+.history/
+*.zip
+output.txt
+Thumbs.db
+.DS_Store
